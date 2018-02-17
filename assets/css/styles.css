@@ -11,9 +11,13 @@ body {
 
 
 a:link {
- color: red;
+    background-color: blueviolet;
+    color: red;
 }
 
+.nav-item {
+    color:palevioletred;
+}
 
 
 .fixed-bottom {
